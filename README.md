@@ -4,7 +4,7 @@
   <h1 align="center">DataMiner</h1>
 
   <p align="center">
-    An Data Mining application that lets you explore and visualize student bios and certifications through two AI-powered assistants: TextMiner  and GraphMiner for using Streamlit for UI.
+    A Data Mining application that lets you explore and visualize student bios and certifications through two AI-powered assistants: TextMiner  and GraphMiner for using Streamlit for UI.
     <br/>
     <br/>
     <a href="https://github.com/Yousinator/DataMiner/issues">Report Bug</a>
