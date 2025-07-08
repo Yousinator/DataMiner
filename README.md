@@ -135,3 +135,9 @@ Distributed under the `Apache 2.0` License. See [LICENSE](https://github.com/You
 8. **Acknowledgements**: Acknowledge any individual, institution, or resource that helped you in your project.
 
 Feel free to modify and expand each section to suit your project’s specifics.
+
+<div align="center">
+
+**Made with ❤️ by Yousinator**
+
+</div>
